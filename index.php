@@ -1,3 +1,3 @@
 <?php
-include('includes/contact.html');
+include_once("contact.html")
 ?>
